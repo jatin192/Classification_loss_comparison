@@ -1,0 +1,145 @@
+cuda
+1
+6250
+torch.Size([16, 3, 128, 128]) torch.Size([16, 3, 128, 128]) torch.Size([16, 3, 128, 128]) torch.Size([16])
+
+Start of Epoch 1
+Epoch: 1/70 -Triplet Loss: 24.310
+Start of Epoch 2
+Epoch: 2/70 -Triplet Loss: 23.595
+Start of Epoch 3
+Epoch: 3/70 -Triplet Loss: 23.326
+Start of Epoch 4
+Epoch: 4/70 -Triplet Loss: 23.052
+Start of Epoch 5
+Epoch: 5/70 -Triplet Loss: 22.852
+Start of Epoch 6
+Epoch: 6/70 -Triplet Loss: 22.678
+Start of Epoch 7
+Epoch: 7/70 -Triplet Loss: 22.587
+Start of Epoch 8
+Epoch: 8/70 -Triplet Loss: 22.440
+Start of Epoch 9
+Epoch: 9/70 -Triplet Loss: 22.447
+Start of Epoch 10
+Epoch: 10/70 -Triplet Loss: 22.341
+Start of Epoch 11
+Epoch: 11/70 -Triplet Loss: 22.410
+Start of Epoch 12
+Epoch: 12/70 -Triplet Loss: 22.263
+Start of Epoch 13
+Epoch: 13/70 -Triplet Loss: 22.322
+Start of Epoch 14
+Epoch: 14/70 -Triplet Loss: 22.235
+Start of Epoch 15
+Epoch: 15/70 -Triplet Loss: 22.147
+Start of Epoch 16
+Epoch: 16/70 -Triplet Loss: 22.127
+Start of Epoch 17
+Epoch: 17/70 -Triplet Loss: 22.280
+Start of Epoch 18
+Epoch: 18/70 -Triplet Loss: 22.156
+Start of Epoch 19
+Epoch: 19/70 -Triplet Loss: 22.154
+Start of Epoch 20
+Epoch: 20/70 -Triplet Loss: 22.091
+Start of Epoch 21
+Epoch: 21/70 -Triplet Loss: 22.005
+Start of Epoch 22
+Epoch: 22/70 -Triplet Loss: 22.097
+Start of Epoch 23
+Epoch: 23/70 -Triplet Loss: 22.006
+Start of Epoch 24
+Epoch: 24/70 -Triplet Loss: 21.997
+Start of Epoch 25
+Epoch: 25/70 -Triplet Loss: 22.011
+Start of Epoch 26
+Epoch: 26/70 -Triplet Loss: 21.944
+Start of Epoch 27
+Epoch: 27/70 -Triplet Loss: 21.902
+Start of Epoch 28
+Epoch: 28/70 -Triplet Loss: 21.968
+Start of Epoch 29
+Epoch: 29/70 -Triplet Loss: 21.935
+Start of Epoch 30
+Epoch: 30/70 -Triplet Loss: 21.924
+Start of Epoch 31
+Epoch: 31/70 -Triplet Loss: 21.838
+Start of Epoch 32
+Epoch: 32/70 -Triplet Loss: 21.888
+Start of Epoch 33
+Epoch: 33/70 -Triplet Loss: 21.862
+Start of Epoch 34
+Epoch: 34/70 -Triplet Loss: 21.815
+Start of Epoch 35
+Epoch: 35/70 -Triplet Loss: 21.741
+Start of Epoch 36
+Epoch: 36/70 -Triplet Loss: 21.750
+Start of Epoch 37
+Epoch: 37/70 -Triplet Loss: 21.815
+Start of Epoch 38
+Epoch: 38/70 -Triplet Loss: 21.787
+Start of Epoch 39
+Epoch: 39/70 -Triplet Loss: 21.744
+Start of Epoch 40
+Epoch: 40/70 -Triplet Loss: 21.753
+Start of Epoch 41
+Epoch: 41/70 -Triplet Loss: 21.658
+Start of Epoch 42
+Epoch: 42/70 -Triplet Loss: 21.739
+Start of Epoch 43
+Epoch: 43/70 -Triplet Loss: 21.677
+Start of Epoch 44
+Epoch: 44/70 -Triplet Loss: 21.694
+Start of Epoch 45
+Epoch: 45/70 -Triplet Loss: 21.601
+Start of Epoch 46
+Epoch: 46/70 -Triplet Loss: 21.697
+Start of Epoch 47
+Epoch: 47/70 -Triplet Loss: 21.600
+Start of Epoch 48
+Epoch: 48/70 -Triplet Loss: 21.576
+Start of Epoch 49
+Epoch: 49/70 -Triplet Loss: 21.621
+Start of Epoch 50
+Epoch: 50/70 -Triplet Loss: 21.654
+Start of Epoch 51
+Epoch: 51/70 -Triplet Loss: 21.644
+Start of Epoch 52
+Epoch: 52/70 -Triplet Loss: 21.620
+Start of Epoch 53
+Epoch: 53/70 -Triplet Loss: 21.583
+Start of Epoch 54
+Epoch: 54/70 -Triplet Loss: 21.589
+Start of Epoch 55
+Epoch: 55/70 -Triplet Loss: 21.576
+Start of Epoch 56
+Epoch: 56/70 -Triplet Loss: 21.635
+Start of Epoch 57
+Epoch: 57/70 -Triplet Loss: 21.537
+Start of Epoch 58
+Epoch: 58/70 -Triplet Loss: 21.555
+Start of Epoch 59
+Epoch: 59/70 -Triplet Loss: 21.523
+Start of Epoch 60
+Epoch: 60/70 -Triplet Loss: 21.418
+Start of Epoch 61
+Epoch: 61/70 -Triplet Loss: 21.454
+Start of Epoch 62
+Epoch: 62/70 -Triplet Loss: 21.560
+Start of Epoch 63
+Epoch: 63/70 -Triplet Loss: 21.518
+Start of Epoch 64
+Epoch: 64/70 -Triplet Loss: 21.485
+Start of Epoch 65
+Epoch: 65/70 -Triplet Loss: 21.508
+Start of Epoch 66
+Epoch: 66/70 -Triplet Loss: 21.448
+Start of Epoch 67
+Epoch: 67/70 -Triplet Loss: 21.385
+Start of Epoch 68
+Epoch: 68/70 -Triplet Loss: 21.417
+Start of Epoch 69
+Epoch: 69/70 -Triplet Loss: 21.482
+Start of Epoch 70
+Epoch: 70/70 -Triplet Loss: 21.464
